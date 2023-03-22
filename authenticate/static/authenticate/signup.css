@@ -66,6 +66,7 @@ input {
 form p {
   text-align: left;
   font-size: 13px;
+  padding: 8px 0px;
 }
 form p a {
   text-decoration: none;
@@ -87,7 +88,7 @@ form p a {
   transition: background 1s;
 }
 .input-group {
-  height: 280px;
+  height: 250px;
 }
 .btn-field button.disable {
   background: #eaeaea;
